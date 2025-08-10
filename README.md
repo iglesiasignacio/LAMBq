@@ -6,7 +6,7 @@
 
 Lexical ambiguity is present in any word having more than one meaning. According to <a href="https://journals.sagepub.com/doi/abs/10.1177/1745691619885860">Rodd (2020)</a>, more than 80% of English words exhibit some degree of ambiguity. Despite the prevalence of the phenomenon, there is currently no method to quantify how ambiguous a word is.
 
-Our work aims at bridging that gap by leveraging open, large-scale free association data and the computational linguistics toolkit. A detailed explanation of the methodology and evaluation results can be found in our accompanying paper, which will be available soon.
+Our work aims at bridging that gap by leveraging open, large-scale free association data and the computational linguistics toolkit. A detailed explanation of the methodology and evaluation results can be found in our accompanying paper (pre-print available <a href=https://doi.org/10.31234/osf.io/tpnxq_v1> here</a>).
 
 
 ## Usage
@@ -73,6 +73,6 @@ Metrics:
 See `./notebooks` directory for exploratory analysis and experiments.  
 
 ## Citation
-If you use this project in your work, please cite the following:  
+If you use this project in your work, for now please cite the following:  
 
-> Iglesias I., Armstrong B., Laurino J., Kaczer L., Cabana A. *Automatic quantification of lexical ambiguity using large-scale word association data*. ~~Journal Name, Year. DOI or URL.~~
+> Iglesias, I., Armstrong, B., Laurino, J., Kaczer, L., & Cabana, Á. (2025, August 9). Automatic quantification of lexical ambiguity using large-scale word association data. https://doi.org/10.31234/osf.io/tpnxq_v1 
