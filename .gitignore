@@ -1,0 +1,9 @@
+.DS_Store
+cache/
+notebooks/cache
+notebooks/.DS_Store
+venv/
+src/__pycache__/
+src/graph/__pycache__
+src/data/__pycache__
+data/*
